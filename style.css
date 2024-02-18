@@ -1,0 +1,164 @@
+body {
+    background-color:black;
+    font-family: "Pacifico", cursive;
+}
+.header-logo{
+
+    width: 130px;
+    height: 150x;
+}
+.header-text{
+    
+vertical-align: 55px;
+font-size: 25px;
+
+
+color: white;
+ margin-right: 75px;
+}
+.header-button {
+    background-color: orange;
+    color: red;
+    font-size: 35px;
+    width: 117px;
+    height: 50px;
+    vertical-align: 53px;
+background-size: black;
+    
+}
+.header{
+      font-size: 50px; 
+      vertical-align: 76px;
+
+    
+}
+.engine-texts{
+    width: 15%;
+   margin-right: 45px;
+   color: white;
+   
+    
+   
+}
+.engine-horse{
+width: 250px;
+margin-left: 280px;
+color: white;
+
+
+
+}
+.engine{
+    display: flex;
+    color: white;
+}
+.engine-card{
+    margin-right: 470px;
+}
+.car-picture{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+
+}
+.car-picture1 {
+   margin: 0 auto;
+    display: block;
+    height: 600px;
+    width: 650px;
+    color:white;
+    
+   
+}
+.car-progress1 {
+    color: black;
+font-weight: 900;
+margin-left: 655px;
+margin-top: 135px;
+color: white;
+}
+.car-progress2{
+    height: 200px;
+    width: 210px;
+margin-top: 170px;
+color: white;
+
+}
+.car-progress3 {
+    height: 200px;
+    width: 210px;
+    margin-left: 100px;
+
+}
+.car-progress4 {
+    height: 200px ;
+    width: 210px; ;
+    margin-left: 100px;
+}
+.car-progress5 {
+    height: 200px;
+    width: 210px;
+    margin-left: 100px;
+
+
+}
+.salon1 {
+    height: 380px;
+    width: 480px;
+
+
+}
+
+.salon2{
+color: white;
+margin-right: 100px;
+font-size: 120px;
+}
+.character-1 {
+    
+    height: 150px;
+    width: 200px;
+    color: white;
+}
+
+.character-2 {
+    font-size: 76px;
+    color: white;
+}
+.character-3 {
+    height: 150px;
+    width: 200px;
+    color: white;
+   
+}
+.character-4 {
+    font-size: 70px;
+    color: wheat;
+   
+    
+}
+.character {
+    display: flex;
+    justify-content: space-around;
+}
+.salon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.character-5 {
+    height: 150px;
+    width: 200px;
+    color:white;
+}
+.character-6 {
+    font-size: 76px;
+    color: white;
+}
+.engine-723{
+    margin-left: 290px;
+}
+.registration1{
+    color:red;
+}
